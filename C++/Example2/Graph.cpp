@@ -4,7 +4,6 @@
 #include <algorithm>
 #include <fstream>
 #include <stdlib.h>
-#include <Functions.hpp>
 
 using namespace std;
 
