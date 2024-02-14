@@ -1,0 +1,7 @@
+Anders Hejlsberg 15 December 1960
+Ada Augusta King Lovelace 10 December 1815
+William Henry Gates 28 October 1955
+Dijkstra Edsger Wiebe 11 May 1930
+John von Neumann 3 December 1903
+Dennis McAlistair Ritchie 9 September 1941
+James Gosling 19 May 1955
