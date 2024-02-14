@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <fstream>
 #include <stdlib.h>
-#include "D:\VSCode_problems\C++\BSU_labs\Functions\Functions.hpp"
+#include <Functions.hpp>
 
 using namespace std;
 
